@@ -1,0 +1,31 @@
+#myFrame{
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+}
+#b{
+    width: 100%;
+    height: 100vh;
+  
+} 
+.hideTitle{
+    width: 100%;
+    padding: 3%;
+    /* background-color: aqua; */
+    position: absolute;
+    z-index: 1;
+    right: 1%;
+    top: 0%;
+
+}
+.hideLogo{
+    width: 100%;
+    padding: 3%;
+    z-index: 1;
+    right: 1%;
+    position: absolute;
+    bottom:  -1%;
+}
+
+
