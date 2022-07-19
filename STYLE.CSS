@@ -10,13 +10,13 @@
   
 } 
 .hideTitle{
-    width: 100%;
-    padding: 3%;
+    width: 67%;
+    padding: 4%;
     /* background-color: aqua; */
     position: absolute;
     z-index: 1;
     right: 1%;
-    top: 0%;
+    top: -1%;
 
 }
 .hideLogo{
